@@ -63,8 +63,8 @@ const Home = () => {
         <HorizontalCart data={trending} />
       </div>
     </>
-  ) : (
-    <loading/>
+  ): (
+    <div>Loading...</div>
   );
 };
 

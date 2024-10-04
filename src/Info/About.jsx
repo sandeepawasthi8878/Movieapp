@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaFilm, FaInfoCircle } from 'react-icons/fa';  // Importing React Icons
+import { FaFilm, FaInfoCircle } from 'react-icons/fa';
 
 function About() {
   return (
